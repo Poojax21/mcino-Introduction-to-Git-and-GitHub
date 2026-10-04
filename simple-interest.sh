@@ -5,6 +5,7 @@
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
 # Poojax21
+# Bug fix revert: validated calculation
 
 # Input:
 # p, principal amount
